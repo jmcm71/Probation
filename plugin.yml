@@ -1,0 +1,10 @@
+name: Probation
+main: me.josiah.probation.main
+version: 0.1
+description: >
+             A plugin which allows you to put players on probation!
+commands:
+  probation:
+    description: Put a player on probation!
+  release:
+    description: Release a player from probation!
